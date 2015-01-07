@@ -1,0 +1,16 @@
+{
+  "name": "explore",
+  "version": "0.1.0",
+  "description": "Explore a file structure.",
+  "main": "src/explore.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "walk",
+    "traverse",
+    "explore"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT"
+}
